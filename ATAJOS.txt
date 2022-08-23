@@ -1,0 +1,17 @@
+WIN A : Barra del wifi.
+
+WIN -+ : Abre la Lupa.
+
+WIN D : Abre el Escritorio.
+
+WIN E : Abre el Explorador.
+
+WIN ; : Mustras los Emojis.
+
+WIN R : EJecutable.
+
+WIN L : Bloquea la pantalla.
+
+WIN M : Minimiza.
+
+WIN SHIFT S : Captura una region de la pantalla.
